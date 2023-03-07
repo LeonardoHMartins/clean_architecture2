@@ -1,0 +1,1 @@
+enum ConcreteOrRandom { concrete, random }
